@@ -21,6 +21,7 @@
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [License](#license)
+
 ## Synopsis
 The problem put forward was to design and code our own basic implementation of RMI using 
 Java TCP API Socket. Using TCP protocol and client/server model, you can implement a remote method
